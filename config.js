@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Quốc tế Thiếu Nhi",
+    introTitle: 'Tên của 1 nữ Nhi mà bạn biết',
+    introDesc: `Không biết anh nào sẽ muốn trưởng thành vì không thể mãi thiếu Nhi đâyyyyyy`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Liệu chăng hôm nay sẽ có 1 thằng nào đó tỏ tình với bạn Nhi của mình đây nhỉ 🤔🤔🤔🤔',
+    desc: 'Có thể nào đó là một người mà Fan Club của chúng ta đều biết chăng???🤔🤔🤔🤔  ',
+    btnYes: 'Đúng rồi đó 👍👍👍',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    question: 'Biết chắc là đúng rồi mà, gõ tên thằng đó vô khung và gửi cho tui biết với nào 👻👻👻',
+    btnReply: 'Gửi cho tao',
+    reply: 'Nguyễn Thị Trà Giang',
+    mess: 'Rồi luôn, hiểu luôn. Đã hiếm gái rồi mà chúng bây còn chơi vậy thì chịu nhá :vvv',
+    messDesc: 'Quà cho những ai thiếu Nhi chứ xung quanh mình có nhiều Nhi lắm rồi :)))))',
+    btnAccept: 'Okie, để Nhi bao Fan Club đi ăn lẩu !!!',
 }
