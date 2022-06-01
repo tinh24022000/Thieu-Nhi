@@ -13,4 +13,5 @@ const CONFIG = {
     mess: 'Rồi luôn, hiểu luôn. Đã hiếm gái rồi mà chúng bây còn chơi vậy thì chịu nhá :vvv',
     messDesc: 'Quà cho những ai thiếu Nhi chứ xung quanh mình có nhiều Nhi lắm rồi :)))))',
     btnAccept: 'Okie, để Nhi bao Fan Club đi ăn lẩu !!!',
+    messLink: 'https://tinh24022000.github.io/Thieu-Nhi/'
 }
